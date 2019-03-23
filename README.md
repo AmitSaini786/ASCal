@@ -1,10 +1,10 @@
-# ASCal  
+# ASCalendar  
 ASCal is a sleek, easily to use and customize,simply drag and drop files to your project and use.  
 ![simulator screen shot apr 27 2017 12 15 53 pm_iphone7plusjetblack_portrait](https://cloud.githubusercontent.com/assets/4947148/25479283/f546f4cc-2b61-11e7-9a7d-2a872637fc1b.png)
-# How to integrate ASCal.  
+# How to integrate ASCalendar.  
 Drag and drop ASCalView.h and ASCalView.m, ASHeaderView.h and ASHeaderView.m file into your project.  
 #import "EsmitView.h" in your view controller.  
-# Interacting with ASCal.  
+# Interacting with ASCalendar.  
 
 -(void)yourMethod {  
   ASCalView.m *cal = [[ASCalView.m alloc]initWithFrame:CGRectMake(0,60, 200, 200)];  
