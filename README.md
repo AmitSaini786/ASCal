@@ -20,3 +20,6 @@ When a user attempts to select a date (via a tap), the calendar will call its de
 # Customizing
 The calendar was written to be easily styled so that you can make it feel seamless in your app. You can customize the fonts, text colors, and background colors of nearly every element.
 
+# For more information
+For more information download the demo project.
+
